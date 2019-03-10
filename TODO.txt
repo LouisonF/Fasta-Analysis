@@ -1,0 +1,7 @@
+TODO: 
+
+Une classe itérative pour la gestion du dictionnaire serait probablement plus adaptée que de stocker le retour de la methode read_fasta dans une variable.
+
+Ajout de quelques gardes fou pour éviter des erreurs dans le format de fichier en entrée par exemple.
+
+
